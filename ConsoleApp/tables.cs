@@ -20,5 +20,15 @@ namespace ConsoleApp
        {
             Console.WriteLine("TWO");
        }
+<<<<<<< Updated upstream
+        public void Three()
+       {
+            Console.WriteLine("3");
+=======
+        public void Four()
+       {
+            Console.WriteLine("4");
+>>>>>>> Stashed changes
+       }
     }
 }
