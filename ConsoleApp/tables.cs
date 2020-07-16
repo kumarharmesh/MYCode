@@ -11,13 +11,14 @@ namespace ConsoleApp
                     Console.WriteLine($"{table} X {i} = {table*i}");
              }
        }
-<<<<<<< Updated upstream
         
-        public void One(){
-=======
-       public void One(){
->>>>>>> Stashed changes
-        Console.WriteLine("ONE");
+        public void One()
+        {
+            Console.WriteLine("ONE");
         }
+       public void Two()
+       {
+            Console.WriteLine("TWO");
+       }
     }
 }
