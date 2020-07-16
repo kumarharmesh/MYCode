@@ -11,5 +11,9 @@ namespace ConsoleApp
                     Console.WriteLine($"{table} X {i} = {table*i}");
              }
        }
+        
+        public void One(){
+        Console.WriteLine("ONE");
+        }
     }
 }
