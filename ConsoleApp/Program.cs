@@ -11,7 +11,9 @@ namespace ConsoleApp
 
             //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                 Console.WriteLine("Stashed changes.");
-            //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~            
+            //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     
+
+            Console.WriteLine(DateTime.Now);       
         }
     }
 }
